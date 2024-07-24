@@ -1,1 +1,3 @@
-add README
+# Responsive Blog Website
+
+![preview img](/image.png)
